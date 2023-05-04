@@ -1,0 +1,11 @@
+.container{
+    margin: auto;
+    border: 2px solid black;
+    width: 700px;
+    height: 550px;
+    display: grid;
+    grid-template-columns: 250px 250px;
+}
+.container div{
+    width: 250px;
+}
